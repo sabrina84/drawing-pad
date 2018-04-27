@@ -1,0 +1,2 @@
+one bug in this project is,
+if one chooses the brush after they have chosen the color, the color turns white. Hoped to fix it, but sadly(and intentionally :p ) uninstalled visual studio.
